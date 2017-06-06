@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">智能管家</string>
+    <string name="text_setting">设置</string>
+    <string name="text_loading">正在登录</string>
+</resources>

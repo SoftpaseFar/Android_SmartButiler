@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartButiler</string>
+    <string name="text_setting">setting</string>
+    <string name="text_loading">loading</string>
+</resources>

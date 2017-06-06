@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:drawable="@drawable/vector_anmi_bar_sea">
+
+        <target
+            android:animation="@animator/vector_anmi_bar"
+            android:name="vector_bar"/>
+
+        <target
+            android:animation="@animator/vector_anmi_search"
+            android:name="vector_search"/>
+
+    </animated-vector>

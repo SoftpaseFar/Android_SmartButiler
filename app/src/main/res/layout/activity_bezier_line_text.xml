@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btn_bezier_second_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_bg"
+        android:text="SecondBezierText"
+        android:textColor="@color/color_white" />
+
+    <Button
+        android:id="@+id/btn_bezier_third_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/button_bg"
+        android:text="ThirdBezierText"
+        android:textColor="@color/color_white" />
+
+    <Button
+        android:id="@+id/btn_bezier_using_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/button_bg"
+        android:text="UsingBezierText"
+        android:textColor="@color/color_white" />
+
+    <Button
+        android:id="@+id/btn_bezier_wave_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/button_bg"
+        android:text="WaveBezierText"
+        android:textColor="@color/color_white" />
+
+</LinearLayout>
